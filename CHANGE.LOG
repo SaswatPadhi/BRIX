@@ -1,0 +1,26 @@
+11-07-2011 : Rev. 3
+	* Created loaders for image and sounds instead of repetitively writing similar blocks.
+	
+	! Volume buttons working.
+	! Fixed volume change round off error in Chrome.
+	! Displayed mouse cursor on canvas, when game is paused.
+
+10-07-2011 : Rev 2
+	+ Added to GitHub
+	+ Added volume control for music and sound effects.
+	+ Varying angle of deflection of ball on hitting the paddle.
+	
+	! Fixed Ball-Brick Collision physics
+	! Fixed OGG playback problem in Chrome.
+	
+09-07-2011 : Rev. 1
+	+ Hide mouse cursor during game.
+	+ Click outside game area to pause.
+	+ Created a low version : reduced several GFX.
+	+ Added a tracker to display files that are currently being fetched from server.
+	
+	* Minor optimisations, improved ball velocity.
+	* Added a ball shadow to reduce jitter during ball movement.
+	
+08-07-2011 : Launch
+	+ First release.
