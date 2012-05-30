@@ -2,6 +2,8 @@ BRIX
 ======
 BRIX is a simple brick game, designed using pure HTML5 and JS.
 
+Try it out here : http://saswatpadhi.github.com/BRIX/
+
 ### Background ###
 ------------------
 With the entry of HTML5 into the web scene and everyone around calling it a Flash-Killer, I wanted to try out

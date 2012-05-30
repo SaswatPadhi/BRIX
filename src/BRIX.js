@@ -163,7 +163,7 @@ var INTROSCREEN = {
         DOMReqList.appendChild(myElement);
         var myElement = document.createElement('span');
         myElement.setAttribute('id','BGVolumeSpan');
-        myElement.innerHTML = " MUSIC VOLUME : ";
+        myElement.innerHTML = " MUSIC : ";
         DOMReqList.appendChild(myElement);
         var myElement = document.createElement('span');
         myElement.setAttribute('id','VolNoSpan');
@@ -203,7 +203,7 @@ var INTROSCREEN = {
         DOMReqList.appendChild(myElement);
         var myElement = document.createElement('span');
         myElement.setAttribute('id','FXVolumeSpan');
-        myElement.innerHTML = " EFFECT VOLUME : ";
+        myElement.innerHTML = " EFFECT : ";
         DOMReqList.appendChild(myElement);
         var myElement = document.createElement('span');
         myElement.setAttribute('id','FXVolNoSpan');
